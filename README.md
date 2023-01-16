@@ -5,7 +5,7 @@ I enjoy helping people by researching problems and developing solutions. <br />
 Most of my work is in private repositories. Here is some stuff I worked on more than five years ago. <br />
 
 ### Some of the links related to me: 
-* [Email: pmapcat@gmail.com](mailto:pmapcat@gmail.com)
+* [pmapcat@gmail.com](mailto:pmapcat@gmail.com)
 * [Quora, old and bold opinions](https://www.quora.com/profile/May-3330)
 * [Linkedin](https://www.linkedin.com/in/pmapcat/)
 * [Stackoverflow](https://stackoverflow.com/users/3362518/pmapcat)
