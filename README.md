@@ -9,7 +9,6 @@ Most of my work is in private repositories. Here is some stuff I worked on more 
 * [Quora, old and bold opinions](https://www.quora.com/profile/May-3330)
 * [Linkedin](https://www.linkedin.com/in/pmapcat/)
 * [Stackoverflow](https://stackoverflow.com/users/3362518/pmapcat)
-* [My formal CV](https://github.com/pmapcat/cv/blob/master/orlovm.pdf)
 
 ### Some of the tech words related to my work (aka word salad for SEO purposes): 
 
